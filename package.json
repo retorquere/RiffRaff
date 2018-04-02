@@ -9,10 +9,11 @@
   "dependencies": {
     "@types/node": "^9.6.0",
     "dotenv": "^5.0.1",
+    "dotenv-cli": "^1.4.0",
     "trobot": "^3.0.2",
     "typescript": "^2.7.2"
   },
   "scripts": {
-    "webhooks": "webhooks"
+    "webhooks": "dotenv webhooks"
   }
 }
