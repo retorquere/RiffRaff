@@ -7,7 +7,7 @@
   "author": "Emiliano Heyns <emiliano.heyns@iris-advies.com>",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^9.6.0",
+    "@types/node": "^9.6.55",
     "dotenv": "^5.0.1",
     "dotenv-cli": "^1.4.0",
     "trobot": "^3.0.2",
